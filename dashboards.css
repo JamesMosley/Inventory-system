@@ -1,0 +1,26 @@
+.main-container {
+    margin-left: 350px;
+    margin-right: 50px;
+}
+
+.page-header h2 {
+    font-size:40px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+    cursor: auto;
+}
+
+.col-sm-6 {
+    margin-top: 20px;
+    width: 30%;
+}
+
+.card-text #card-text-number {
+    font-size: 50px;
+}
+
+.card-text #card-text-text {
+    font-size: 25px;
+}
